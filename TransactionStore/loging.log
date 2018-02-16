@@ -1,0 +1,239 @@
+2018-02-15 09:25:02 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@1b5bc39d
+2018-02-15 09:25:02 INFO  root:25 - Hi Logger info!
+2018-02-15 09:42:30 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@1494b84d
+2018-02-15 09:42:30 INFO  root:25 - Hi Logger info!
+2018-02-15 10:11:06 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@f713686
+2018-02-15 10:11:06 INFO  root:25 - Hi Logger info!
+2018-02-15 10:15:12 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@f713686
+2018-02-15 10:15:12 INFO  root:25 - Hi Logger info!
+2018-02-15 15:07:11 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@5dda6f9
+2018-02-15 15:07:11 INFO  root:25 - Hi Logger info!
+2018-02-15 15:07:11 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:05:03 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@5dda6f9
+2018-02-15 16:05:03 INFO  root:25 - Hi Logger info!
+2018-02-15 16:05:03 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:12:38 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@5dda6f9
+2018-02-15 16:12:38 INFO  root:25 - Hi Logger info!
+2018-02-15 16:12:38 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:13:28 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@5dda6f9
+2018-02-15 16:13:28 INFO  root:25 - Hi Logger info!
+2018-02-15 16:13:28 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:14:42 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@5dda6f9
+2018-02-15 16:14:42 INFO  root:25 - Hi Logger info!
+2018-02-15 16:14:42 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:15:31 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@2a492f2a
+2018-02-15 16:15:31 INFO  root:25 - Hi Logger info!
+2018-02-15 16:15:31 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:25:00 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@2ca47471
+2018-02-15 16:25:00 INFO  root:25 - Hi Logger info!
+2018-02-15 16:25:00 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:25:45 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@2ca47471
+2018-02-15 16:25:45 INFO  root:25 - Hi Logger info!
+2018-02-15 16:25:45 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:26:44 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@2ca47471
+2018-02-15 16:26:44 INFO  root:25 - Hi Logger info!
+2018-02-15 16:26:44 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:27:31 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@2ca47471
+2018-02-15 16:27:31 INFO  root:25 - Hi Logger info!
+2018-02-15 16:27:31 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:28:11 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@2ca47471
+2018-02-15 16:28:11 INFO  root:25 - Hi Logger info!
+2018-02-15 16:28:11 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:30:00 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@2ca47471
+2018-02-15 16:30:00 INFO  root:25 - Hi Logger info!
+2018-02-15 16:30:00 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:33:12 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@7f9e1534
+2018-02-15 16:33:12 INFO  root:25 - Hi Logger info!
+2018-02-15 16:33:12 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:33:44 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@66eb985d
+2018-02-15 16:33:44 INFO  root:25 - Hi Logger info!
+2018-02-15 16:33:44 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:36:26 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@7f9e1534
+2018-02-15 16:36:26 INFO  root:25 - Hi Logger info!
+2018-02-15 16:36:26 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:37:06 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@7f9e1534
+2018-02-15 16:37:06 INFO  root:25 - Hi Logger info!
+2018-02-15 16:37:06 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:37:24 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@7f9e1534
+2018-02-15 16:37:24 INFO  root:25 - Hi Logger info!
+2018-02-15 16:37:24 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:52:07 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@7f9e1534
+2018-02-15 16:52:07 INFO  root:25 - Hi Logger info!
+2018-02-15 16:52:07 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:52:49 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@7f9e1534
+2018-02-15 16:52:49 INFO  root:25 - Hi Logger info!
+2018-02-15 16:52:49 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:53:06 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@99a65d3
+2018-02-15 16:53:06 INFO  root:25 - Hi Logger info!
+2018-02-15 16:53:06 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:54:48 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@66eb985d
+2018-02-15 16:54:48 INFO  root:25 - Hi Logger info!
+2018-02-15 16:54:48 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:55:23 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@a098d76
+2018-02-15 16:55:23 INFO  root:25 - Hi Logger info!
+2018-02-15 16:55:23 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:56:42 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@a098d76
+2018-02-15 16:56:42 INFO  root:25 - Hi Logger info!
+2018-02-15 16:56:42 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:57:13 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@a098d76
+2018-02-15 16:57:13 INFO  root:25 - Hi Logger info!
+2018-02-15 16:57:13 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:58:43 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@66eb985d
+2018-02-15 16:58:43 INFO  root:25 - Hi Logger info!
+2018-02-15 16:58:43 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:58:55 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@a098d76
+2018-02-15 16:58:55 INFO  root:25 - Hi Logger info!
+2018-02-15 16:58:55 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 16:59:31 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@66eb985d
+2018-02-15 16:59:31 INFO  root:25 - Hi Logger info!
+2018-02-15 16:59:31 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:01:18 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@66eb985d
+2018-02-15 17:01:18 INFO  root:25 - Hi Logger info!
+2018-02-15 17:01:18 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:02:33 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@66eb985d
+2018-02-15 17:02:33 INFO  root:25 - Hi Logger info!
+2018-02-15 17:02:33 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:03:18 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@66eb985d
+2018-02-15 17:03:18 INFO  root:25 - Hi Logger info!
+2018-02-15 17:03:18 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:03:32 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@66eb985d
+2018-02-15 17:03:32 INFO  root:25 - Hi Logger info!
+2018-02-15 17:03:32 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:06:02 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@66eb985d
+2018-02-15 17:06:02 INFO  root:25 - Hi Logger info!
+2018-02-15 17:06:02 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:07:41 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@7f9e1534
+2018-02-15 17:07:41 INFO  root:25 - Hi Logger info!
+2018-02-15 17:07:41 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:08:14 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@6f89f665
+2018-02-15 17:08:14 INFO  root:25 - Hi Logger info!
+2018-02-15 17:08:14 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:10:06 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@7f9e1534
+2018-02-15 17:10:06 INFO  root:25 - Hi Logger info!
+2018-02-15 17:10:06 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:10:32 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@7f9e1534
+2018-02-15 17:10:32 INFO  root:25 - Hi Logger info!
+2018-02-15 17:10:32 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:37:23 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@16ade133
+2018-02-15 17:37:23 INFO  root:25 - Hi Logger info!
+2018-02-15 17:37:23 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:47:35 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@16ade133
+2018-02-15 17:47:35 INFO  root:25 - Hi Logger info!
+2018-02-15 17:47:35 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:48:50 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@16ade133
+2018-02-15 17:48:50 INFO  root:25 - Hi Logger info!
+2018-02-15 17:48:50 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:49:29 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@16ade133
+2018-02-15 17:49:29 INFO  root:25 - Hi Logger info!
+2018-02-15 17:49:29 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:51:44 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@16ade133
+2018-02-15 17:51:44 INFO  root:25 - Hi Logger info!
+2018-02-15 17:51:44 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:51:45 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2018-02-15 17:52:28 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@9ab310b
+2018-02-15 17:52:28 INFO  root:25 - Hi Logger info!
+2018-02-15 17:52:28 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:52:35 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2018-02-15 17:52:53 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@49ca94a9
+2018-02-15 17:52:53 INFO  root:25 - Hi Logger info!
+2018-02-15 17:52:53 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:52:58 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2018-02-15 17:53:25 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@760487aa
+2018-02-15 17:53:25 INFO  root:25 - Hi Logger info!
+2018-02-15 17:53:25 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:53:31 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2018-02-15 17:53:54 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@760487aa
+2018-02-15 17:53:54 INFO  root:25 - Hi Logger info!
+2018-02-15 17:53:54 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 17:53:59 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2018-02-15 18:01:35 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@c6a6c1d
+2018-02-15 18:01:35 INFO  root:25 - Hi Logger info!
+2018-02-15 18:01:35 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 18:01:36 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2018-02-15 18:01:36 ERROR ErrorCounter:60 - line 1:8: unexpected token: *
+2018-02-15 18:01:36 ERROR ErrorCounter:55 - line 1:8: unexpected token: *
+line 1:8: unexpected token: *
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectClause(HqlBaseParser.java:1263)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectFrom(HqlBaseParser.java:1040)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.queryRule(HqlBaseParser.java:748)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectStatement(HqlBaseParser.java:319)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.statement(HqlBaseParser.java:198)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.parse(QueryTranslatorImpl.java:284)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:186)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.compile(QueryTranslatorImpl.java:141)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:115)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:77)
+	at org.hibernate.engine.query.spi.QueryPlanCache.getHQLQueryPlan(QueryPlanCache.java:153)
+	at org.hibernate.internal.AbstractSharedSessionContract.getQueryPlan(AbstractSharedSessionContract.java:553)
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:662)
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:103)
+	at eu.expobank.transactionstore.bloomberg.dao.impl.BloombergTransactionDAOImpl.gatAllTransactions(BloombergTransactionDAOImpl.java:41)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:338)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:197)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:294)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy35.gatAllTransactions(Unknown Source)
+	at eu.expobank.transactionstore.bloomberg.Main.main(Main.java:25)
+2018-02-15 18:02:58 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@c6a6c1d
+2018-02-15 18:02:58 INFO  root:25 - Hi Logger info!
+2018-02-15 18:02:58 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 18:02:59 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2018-02-15 18:18:31 INFO  AnnotationConfigApplicationContext:589 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1996cd68: startup date [Thu Feb 15 18:18:31 CET 2018]; root of context hierarchy
+2018-02-15 18:18:33 INFO  Version:45 - HHH000412: Hibernate Core {5.2.13.Final}
+2018-02-15 18:18:33 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2018-02-15 18:18:33 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-02-15 18:18:33 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.DerbyTenSevenDialect
+2018-02-15 18:18:33 INFO  TableGenerator:468 - HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2018-02-15 18:18:34 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@de18f63
+2018-02-15 18:18:34 INFO  root:25 - Hi Logger info!
+2018-02-15 18:18:34 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 18:18:34 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2018-02-15 19:27:48 INFO  AnnotationConfigApplicationContext:589 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1996cd68: startup date [Thu Feb 15 19:27:48 CET 2018]; root of context hierarchy
+2018-02-15 19:27:50 INFO  Version:45 - HHH000412: Hibernate Core {5.2.13.Final}
+2018-02-15 19:27:50 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2018-02-15 19:27:50 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-02-15 19:27:51 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.DerbyTenSevenDialect
+2018-02-15 19:27:51 INFO  TableGenerator:468 - HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2018-02-15 19:27:52 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@de18f63
+2018-02-15 19:27:52 INFO  root:25 - Hi Logger info!
+2018-02-15 19:27:52 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 19:28:06 INFO  root:50 - Processing SESSION_STATUS
+2018-02-15 19:28:06 ERROR root:33 - Error: Session startup failed
+2018-02-15 19:28:37 INFO  AnnotationConfigApplicationContext:589 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1996cd68: startup date [Thu Feb 15 19:28:37 CET 2018]; root of context hierarchy
+2018-02-15 19:28:38 INFO  Version:45 - HHH000412: Hibernate Core {5.2.13.Final}
+2018-02-15 19:28:38 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2018-02-15 19:28:38 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-02-15 19:28:38 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.DerbyTenSevenDialect
+2018-02-15 19:28:39 INFO  TableGenerator:468 - HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2018-02-15 19:28:39 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@de18f63
+2018-02-15 19:28:39 INFO  root:25 - Hi Logger info!
+2018-02-15 19:28:39 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 19:28:41 INFO  root:50 - Processing SESSION_STATUS
+2018-02-15 19:28:41 ERROR root:33 - Error: Session startup failed
+2018-02-15 20:26:24 INFO  AnnotationConfigApplicationContext:589 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1996cd68: startup date [Thu Feb 15 20:26:24 CET 2018]; root of context hierarchy
+2018-02-15 20:26:26 INFO  Version:45 - HHH000412: Hibernate Core {5.2.13.Final}
+2018-02-15 20:26:26 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2018-02-15 20:26:26 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-02-15 20:26:27 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.DerbyTenSevenDialect
+2018-02-15 20:26:27 INFO  TableGenerator:468 - HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2018-02-15 20:26:33 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@4e904fd5
+2018-02-15 20:26:33 INFO  root:25 - Hi Logger info!
+2018-02-15 20:26:33 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 20:26:54 ERROR root:33 - Error: Session startup failed
+2018-02-15 20:41:28 INFO  AnnotationConfigApplicationContext:589 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1996cd68: startup date [Thu Feb 15 20:41:28 CET 2018]; root of context hierarchy
+2018-02-15 20:41:31 INFO  Version:45 - HHH000412: Hibernate Core {5.2.13.Final}
+2018-02-15 20:41:31 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2018-02-15 20:41:31 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-02-15 20:41:32 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.DerbyTenSevenDialect
+2018-02-15 20:41:34 INFO  TableGenerator:468 - HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2018-02-15 20:41:35 INFO  root:23 - Available appender org.apache.log4j.DailyRollingFileAppender@4f8b4bd0
+2018-02-15 20:41:35 INFO  root:25 - Hi Logger info!
+2018-02-15 20:41:35 INFO  HibernateTransactionManager:378 - Using DataSource [HikariDataSource (HikariPool-1)] of Hibernate SessionFactory for HibernateTransactionManager
+2018-02-15 20:41:37 ERROR root:33 - Error: Session startup failed
